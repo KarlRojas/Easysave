@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Y/tBo+gBpUQzaRKzj+/9CsgKKOvcePU8zmjdGlqWGvQog/VhDHF/qt1rAikgt999lgIxiXE3J1zsR78eYL1w8g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Admin\\source\\repos\\EasySafe2\\EasySafeVersion2.0\\EasySafeVersion2.0.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\newtonsoft.json\\12.0.1\\newtonsoft.json.12.0.1.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

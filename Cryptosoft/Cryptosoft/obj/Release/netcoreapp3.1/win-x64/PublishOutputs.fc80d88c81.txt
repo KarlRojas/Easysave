@@ -1,0 +1,6 @@
+C:\Users\kemlu\source\repos\EasySafe2\Cryptosoft\encrypt\Cryptosoft.exe
+C:\Users\kemlu\source\repos\EasySafe2\Cryptosoft\encrypt\Cryptosoft.dll
+C:\Users\kemlu\source\repos\EasySafe2\Cryptosoft\encrypt\Cryptosoft.deps.json
+C:\Users\kemlu\source\repos\EasySafe2\Cryptosoft\encrypt\Cryptosoft.runtimeconfig.json
+C:\Users\kemlu\source\repos\EasySafe2\Cryptosoft\encrypt\Cryptosoft.pdb
+C:\Users\kemlu\source\repos\EasySafe2\Cryptosoft\encrypt\Newtonsoft.Json.dll

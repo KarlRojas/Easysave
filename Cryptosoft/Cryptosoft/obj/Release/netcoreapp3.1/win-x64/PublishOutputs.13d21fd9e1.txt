@@ -1,0 +1,6 @@
+C:\Users\kemlu\source\repos\EasySafe2\EsaySafeVersion3.0\bin\Debug\Cryptosoft\Cryptosoft.exe
+C:\Users\kemlu\source\repos\EasySafe2\EsaySafeVersion3.0\bin\Debug\Cryptosoft\Cryptosoft.dll
+C:\Users\kemlu\source\repos\EasySafe2\EsaySafeVersion3.0\bin\Debug\Cryptosoft\Cryptosoft.deps.json
+C:\Users\kemlu\source\repos\EasySafe2\EsaySafeVersion3.0\bin\Debug\Cryptosoft\Cryptosoft.runtimeconfig.json
+C:\Users\kemlu\source\repos\EasySafe2\EsaySafeVersion3.0\bin\Debug\Cryptosoft\Cryptosoft.pdb
+C:\Users\kemlu\source\repos\EasySafe2\EsaySafeVersion3.0\bin\Debug\Cryptosoft\Newtonsoft.Json.dll

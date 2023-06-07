@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "u5W9sLev9fr3h6ptfMYVlrP4Po5WBoDWJAW2SyeG8HBFY4+S5vnyAudfXm1TEF3W4ti+H3xIy4grONqAqVndPw==",
+  "success": true,
+  "projectFilePath": "/Users/mouhamadchanou/Documents/EasySafe2/EasySafe2/Version1.0/ProjectEasysafe.csproj",
+  "expectedPackageFiles": [
+    "/Users/mouhamadchanou/.nuget/packages/newtonsoft.json/13.0.2/newtonsoft.json.13.0.2.nupkg.sha512",
+    "/Users/mouhamadchanou/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.31/microsoft.netcore.app.host.osx-x64.3.1.31.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+C:\Users\kemlu\source\repos\EasySafe2\Cryptosoft\Cryptosoft\bin\Release\netcoreapp3.1\win-x64\Cryptosoft.exe
+C:\Users\kemlu\source\repos\EasySafe2\Cryptosoft\Cryptosoft\bin\Release\netcoreapp3.1\win-x64\Cryptosoft.deps.json
+C:\Users\kemlu\source\repos\EasySafe2\Cryptosoft\Cryptosoft\bin\Release\netcoreapp3.1\win-x64\Cryptosoft.runtimeconfig.json
+C:\Users\kemlu\source\repos\EasySafe2\Cryptosoft\Cryptosoft\bin\Release\netcoreapp3.1\win-x64\Cryptosoft.runtimeconfig.dev.json
+C:\Users\kemlu\source\repos\EasySafe2\Cryptosoft\Cryptosoft\bin\Release\netcoreapp3.1\win-x64\Cryptosoft.dll
+C:\Users\kemlu\source\repos\EasySafe2\Cryptosoft\Cryptosoft\bin\Release\netcoreapp3.1\win-x64\Cryptosoft.pdb
+C:\Users\kemlu\source\repos\EasySafe2\Cryptosoft\Cryptosoft\bin\Release\netcoreapp3.1\win-x64\Newtonsoft.Json.dll
+C:\Users\kemlu\source\repos\EasySafe2\Cryptosoft\Cryptosoft\obj\Release\netcoreapp3.1\win-x64\Cryptosoft.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kemlu\source\repos\EasySafe2\Cryptosoft\Cryptosoft\obj\Release\netcoreapp3.1\win-x64\Cryptosoft.AssemblyInfoInputs.cache
+C:\Users\kemlu\source\repos\EasySafe2\Cryptosoft\Cryptosoft\obj\Release\netcoreapp3.1\win-x64\Cryptosoft.AssemblyInfo.cs
+C:\Users\kemlu\source\repos\EasySafe2\Cryptosoft\Cryptosoft\obj\Release\netcoreapp3.1\win-x64\Cryptosoft.csproj.CoreCompileInputs.cache
+C:\Users\kemlu\source\repos\EasySafe2\Cryptosoft\Cryptosoft\obj\Release\netcoreapp3.1\win-x64\Cryptosoft.csproj.CopyComplete
+C:\Users\kemlu\source\repos\EasySafe2\Cryptosoft\Cryptosoft\obj\Release\netcoreapp3.1\win-x64\Cryptosoft.dll
+C:\Users\kemlu\source\repos\EasySafe2\Cryptosoft\Cryptosoft\obj\Release\netcoreapp3.1\win-x64\Cryptosoft.pdb
+C:\Users\kemlu\source\repos\EasySafe2\Cryptosoft\Cryptosoft\obj\Release\netcoreapp3.1\win-x64\Cryptosoft.genruntimeconfig.cache

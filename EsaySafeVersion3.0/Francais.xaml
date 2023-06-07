@@ -1,0 +1,21 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" 
+                    xmlns:system="clr-namespace:System;assembly=System.Runtime"
+                    >
+
+    <system:String x:Key="LanguagesMenu">Langues</system:String>
+    <system:String x:Key="AnglaisMenu">English</system:String>
+    <system:String x:Key="FrancaisMenu">Français</system:String>
+    <system:String x:Key="SaveButton">Sauvegarder</system:String>
+
+    <system:String x:Key="Welcome">Bienvenue</system:String>
+    <system:String x:Key="Copyrights">Application crée par Mouhamad Chanou, Lucas Kem, Karl Rojas et Thomas Valade</system:String>
+    <system:String x:Key="LogExtension">Extension du fichier log</system:String>
+    <system:String x:Key="BrowseSourceFile">Parcourir</system:String>
+    <system:String x:Key="SourcePath">Chemin Source</system:String>
+    <system:String x:Key="FileName">Nom</system:String>
+    <system:String x:Key="ChooseCrypto">Cryptographie</system:String>
+    <system:String x:Key="Encrypt">Crypter</system:String>
+    <system:String x:Key="Decrypt">Décrypter</system:String>
+    
+</ResourceDictionary>
